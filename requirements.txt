@@ -2,4 +2,10 @@ scikit-learn
 numpy
 pandas
 matplotlib
-tensorflow
+bokeh
+seaborn
+torch
+jupyter
+joblib
+imageai
+torchvision
